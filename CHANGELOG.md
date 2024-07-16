@@ -1,4 +1,4 @@
-## 0.4.0
+## init
 
 nothing yet. Only express typescript environment
 
