@@ -10,4 +10,4 @@ jobs:
           node-version: '18'
       - run: cd client && npm i
       - run: cd client && npm run build
-      - run: cd client && npm run start
+      # - run: cd client && npm run start
